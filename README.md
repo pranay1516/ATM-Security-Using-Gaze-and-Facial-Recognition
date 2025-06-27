@@ -1,4 +1,4 @@
-# eyeblinkpassword
+# ATM Security Using Gaze and Facial Recognition
 
 An OpenCV project for using the blinking of eyes as a password.
 
